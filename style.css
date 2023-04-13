@@ -1,0 +1,20 @@
+.conteiner{
+    background-color: skyblue;
+    width: 50%;
+    height: 400px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px blue;
+}
+.simvol,
+.words,
+.parag,
+.time{
+    border: 2px solid blue;
+    width: 50%;
+    border-radius: 10px;
+    font-size: 24px;
+    background-color: skyblue;
+    text-align: center;
+    box-shadow: 3px 3px 3px blue;
+}
